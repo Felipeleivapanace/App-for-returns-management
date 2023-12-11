@@ -1,0 +1,1 @@
+ /Users/felipeleiva/Documents/GitHub/App-for-returns-management/.dart_tool/flutter_build/aa57f3da9817e4fa4988abb1d2f8c5dc/native_assets.yaml: 
